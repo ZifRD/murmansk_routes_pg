@@ -23,7 +23,8 @@
 5. Ради эксперимента пригороды Мурманска были извлечены из PostgreSQL БД OSM в отдельный шейпфайл (папка towns), поэтому объекты (5) загружаются из него, а не из БД путей.
 
 Ключевые ссылки:
-1. https://workshop.pgrouting.org/2.5/en/chapters/prepare_data.html#prepare-the-database
+1. https://wiki.openstreetmap.org/wiki/Downloading_data 
+2. https://workshop.pgrouting.org/2.5/en/chapters/prepare_data.html#prepare-the-database
 2. http://www.zoomadmin.com/HowToInstall/UbuntuPackage/osm2pgrouting
 3. https://wiki.openstreetmap.org/wiki/Osmconvert
 
